@@ -1,0 +1,6 @@
+RUN TAG: 20250915_105401
+backend: IBM Quantum hardware
+IBM backend name: ibm_brisbane
+import ProcessTomography       ✅
+No PTM – converting Choi from 'state'
+job metadata unavailable    ❌  (Attribute job is not defined)
